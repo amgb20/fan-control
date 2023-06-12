@@ -1,6 +1,9 @@
 # fan-control
 EE30186_CourseWork
 
+<!-- Add a picture -->
+![alt text](designdocboardcircuits.png)
+
 GENERAL INFORMATION
 
 	Abstract
