@@ -3,8 +3,9 @@ EE30186_CourseWork
 
 <!-- Add a picture -->
 ![HOME](designdocboardcircuit.png)
+![HOME](lcdboard.png)
 
-GENERAL INFORMATION
+# GENERAL INFORMATION
 
 	Abstract
 
@@ -22,7 +23,7 @@ GENERAL INFORMATION
 		
 		On the LCD, the user should be able to select the desired speed and will be shown the measured speed.
 
-SYSTEM REQUIREMENTS
+# SYSTEM REQUIREMENTS
 
 	Hardware
 
@@ -58,7 +59,7 @@ SYSTEM REQUIREMENTS
 		MenuSettingOpenLoop.h
 		mbed_app.json: write float numbers
 
-SETTING UP THE HARDWARE
+# SETTING UP THE HARDWARE
 
 	Connect the extension board to the left side of the Nucleo Board
 
@@ -79,7 +80,7 @@ SETTING UP THE HARDWARE
 
 	You should see a little animation and a welcoming message.
 
-USER MANUAL
+# USER MANUAL
 
 	If the implementation is done on time, you could play the game and jump the obstacle with the blue push button.
 
