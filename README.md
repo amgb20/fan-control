@@ -2,7 +2,7 @@
 EE30186_CourseWork
 
 <!-- Add a picture -->
-![alt text](designdocboardcircuits.png)
+![HOME](designdocboardcircuit.png)
 
 GENERAL INFORMATION
 
